@@ -10,5 +10,5 @@ df = df.drop(columns=['Class'])
 if __name__ == "__main__":
     print(df.head())
     print(df.shape)
-    weights = binary_classification(df, df_col, 1)
-    #print(weights)
+    weights = binary_classification(df, df_col)
+    print(weights)
