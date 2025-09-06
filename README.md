@@ -1,3 +1,5 @@
+![Perceptron](https://imgur.com/a/lCXj4dJ "Perceptron_repo_banner") 
+
 # Perceptron
 
 ### Description:

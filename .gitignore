@@ -1,10 +1,7 @@
 archive.zip
-<<<<<<< HEAD
 /__pycache__
 /.idea
 main.py
+/__pycache__
+/.idea
 
-=======
-__pycache__
-.idea
->>>>>>> b1bbaa3b0e6a53e416b956b0f0c5636ebd07e357
