@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Perceptron.iml" filepath="$PROJECT_DIR$/.idea/Perceptron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Perceptron2.iml" filepath="$PROJECT_DIR$/.idea/Perceptron2.iml" />
     </modules>
   </component>
 </project>
